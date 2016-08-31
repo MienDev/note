@@ -17,20 +17,14 @@
 
 ### Server-Side
 
--[ ] [asp.net core docs](https://docs.asp.net/en/latest/)
--[ ] ID: [asp.net identity](http://www.asp.net/identity) | [IdentityServer](https://github.com/IdentityServer)
-
+- [ ] [asp.net core docs](https://docs.asp.net/en/latest/)
+- [ ] ID: [asp.net identity](http://www.asp.net/identity) | [IdentityServer](https://github.com/IdentityServer)
 
 ### Front-End
 
 - [ ] [angular2 official](https://angular.io/)  |  [angular github](https://github.com/angular/angular)
-
-- [ ] [vuejs](http://vuejs.org/)
-
-
+- [ ]  [vuejs](http://vuejs.org/)
 - [ ] [react-native](http://facebook.github.io/react-native/)
-
-
 - [ ] [polymer](https://github.com/Polymer/polymer)
 
 ### Front-UI
