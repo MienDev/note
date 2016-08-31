@@ -23,9 +23,9 @@
 
 ### Front-End
 
--[ ] [angular2 official](https://angular.io/)  |  [angular github](https://github.com/angular/angular)
+- [ ] [angular2 official](https://angular.io/)  |  [angular github](https://github.com/angular/angular)
 
--[ ] [vuejs](http://vuejs.org/)
+- [ ] [vuejs](http://vuejs.org/)
 
 
 - [ ] [react-native](http://facebook.github.io/react-native/)
