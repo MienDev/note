@@ -4,12 +4,14 @@
 
 ### Dev & DevOps & Deployment
 
-- [ ] Cloud: [**Ali-Cloud**](https://cn.aliyun.com/) |[**Azure cn**](https://www.azure.cn/?v=a)| [digitalocean](https://www.digitalocean.com/) |[**DAO Cloud**](https://www.daocloud.io/)| [heroku](https://www.heroku.com/) | [**OpenShift**](https://www.openshift.com/) |[cloudfoundry](https://pivotal.io/platform)| [Appfog](https://www.ctl.io/appfog/#) | [sina SAE](https://sae.sina.com.cn)  |[**网易蜂巢**](http://c.163yun.com/)|[bmob](http://www.bmob.cn/)| [leancloud](http://leancloud.cn) |[**Qiniu**](http://www.qiniu.com/)
+- [ ] Cloud: [**Ali-Cloud**](https://cn.aliyun.com/) |[**Azure cn**](https://portal.azure.cn/)| [digitalocean](https://www.digitalocean.com/) |[**DAO Cloud**](https://www.daocloud.io/)| [heroku](https://www.heroku.com/) | [**OpenShift**](https://www.openshift.com/) |[cloudfoundry](https://pivotal.io/platform)| [Appfog](https://www.ctl.io/appfog/#) | [sina SAE](https://sae.sina.com.cn)  |[**网易蜂巢**](http://c.163yun.com/)|[bmob](http://www.bmob.cn/)| [leancloud](http://leancloud.cn) |[**Qiniu**](http://www.qiniu.com/)
 - [ ] TEST:  [XUnit](http://xunit.github.io/) | [phantomjs](http://phantomjs.org/)
 - [ ] Container: [Docker](https://www.docker.com/) | [dokku](https://github.com/dokku/dokku)
 
 
-- [ ] NET [dnspod](https://www.dnspod.cn)
+- [ ] Network: [dnspod](https://www.dnspod.cn) 
+- [ ] Tools: [RFC reader](http://www.rfcreader.com/#rfc6749)
+- [ ] Log center:  syslog | siem | snmp | splunk | [syslog-ng](https://syslog-ng.org/) | 
 
 
 
@@ -23,7 +25,7 @@
 ### Front-End
 
 - [ ] [angular2 official](https://angular.io/)  |  [angular github](https://github.com/angular/angular)
-- [ ]  [vuejs](http://vuejs.org/)
+- [ ] [vuejs](http://vuejs.org/)
 - [ ] [react-native](http://facebook.github.io/react-native/)
 - [ ] [polymer](https://github.com/Polymer/polymer)
 
